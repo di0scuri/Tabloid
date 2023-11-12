@@ -1,0 +1,465 @@
+*{
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.top{
+    display: flex;
+    padding-top: 0;
+  margin-top: 0;
+}
+.div_bulgar{
+    margin-right: 20px;
+}
+.bulgar_border{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+.bulgar_title{
+    color: red;
+    font-family: Old Letterpress Type;
+    font-size: 280px;
+    font-weight: bold;
+    margin-bottom: -25px;
+    margin-top: -5px;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+.bulgar_subtitle{
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    margin-left:10px;   
+    margin-right: 10px;
+    margin-bottom: 10px ;
+    font-style: italic;
+    font-family: 'Belwe Std Condensed';
+    word-spacing: 25px;
+}
+.bulgar_top{
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+    word-spacing: 10px;
+    padding-bottom: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bulgar_footer2{
+    display: flex;
+    margin-top: -35px;
+}
+.date{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 100px;
+    font-size: 35px;
+}
+.price{
+    font-size: 50px;
+    font-weight: bold;
+    margin-right: 60px;
+}
+.part3{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.div_aquino{
+    z-index: 1;
+    display: flex;
+    border: solid;
+    padding-bottom: 0;
+}
+.div_aquino img{
+    position: absolute;
+    height: 50%;
+    z-index: 2;
+    object-fit: contain;
+    padding-top: -10px;
+    height: 48.3%;
+} 
+.aquino_head{
+    background-color: red;
+    height: 50%;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Brush 738 Regular';
+    font-size: 90px;
+    padding-left: 180px;
+}
+.aquino_quote{
+    padding-top: 0px;
+    background-color: black;
+    height: 50%;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Belwe Std Condensed';
+    font-size: 83px;
+    padding-left: 370px;
+}
+.middle{
+    padding: 0;
+    margin: 0;
+}
+.middle_header{
+    font-size: 130px;
+    font-family: Impact;
+    font-style: italic;
+    word-spacing: 50px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.remulla_middle {
+    display: flex;
+  }
+  
+  .div_remulla {
+    box-sizing: border-box; /* Include the border within the dimensions */
+    height: 500px; /* Set a fixed height for the image container */
+  }
+  
+  .div_remulla img {
+    height: 100%;
+    object-fit: cover;
+    width: 100%; /* Ensure the image covers the entire div */
+    z-index: 2;
+  }
+  
+.immigration{
+    text-decoration: underline;
+    font-size: 74px;
+    color: white;
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-style: italic;
+    text-align: center;
+    font-family: Impact;
+    font-stretch: ultra-condensed;
+}
+.remulla_paragraph{
+    color: red;
+    font-size: 144px;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 60px;
+    width: 1500px;
+}
+.bottom_middle{
+    display: flex;
+}
+.naia{
+    color: white;
+    background-color: black;
+    margin-top: 98px;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bbm{
+    height: 200%;
+    width: 13%;
+    padding-top: 100px;
+}
+.days {
+    color: white;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 64px;
+    padding: 10px;
+    padding-top: 90px;
+    word-spacing: 20px;
+    text-align: center;
+    background: linear-gradient(to bottom, transparent 50%, black 50%);
+}
+.apology{
+    margin-top: -70px;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 74px;
+    width: 600px;
+}
+
+.container{
+    margin-top: -90px;
+    display: flex;
+    height: 140px;
+    margin-bottom: 10px;
+}
+.acosta{
+    border-style: solid;
+    display: flex;
+    width: 700px;
+}
+.acosta img{
+    height: 13%;
+    width: 5%;
+    position: absolute;
+}
+.acosta_header{
+    color: red;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 110px;
+}
+.acosta_name{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    margin-top: -40px;
+    margin-left: 115px;
+    margin-right: 210px;
+    font-size: 25px;
+}
+.opinyon{
+    display: inline;
+    width: 350px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.opinyon_header{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    font-family: 'Belwe Std Condensed';
+    font-size: 30px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.opinyon_footer{
+    background-color: black;
+    color: white;
+    margin-top: -30px;
+    font-size: 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text_bulgar{
+    border: solid;
+    width: 200px;
+}
+.text_bulgar p{
+    margin: -19;
+    font-size: 16px;
+    font-weight: 800;
+}
+.rollback{
+    border: solid;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    margin-bottom: 0;
+    width: 530px;
+    line-height: 0%;
+    padding-top: 30px;
+    padding-left: 10px;
+    text-align: center;
+}
+.rb1{
+    padding-bottom: 0px;
+}
+.rb2{
+    padding-top: 0;
+}
+.container2{
+    display: flex;
+    height: 400px;
+}
+.kisha{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+    background-image: url("kisha.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    width: 450px;
+}
+.kisha_header{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 35px;
+    padding-left: 18px;
+    margin-right: 130px;
+    font-family: 'Belwe Std Condensed';
+}
+.kisha_body{
+    color: white;
+    font-size: 40px;
+    margin-top: -30px;
+    margin-left: 10px;
+    line-height: 55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.angeil{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+    background-image: url("angeil.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    width: 450px;
+}
+.angeil_header{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 40px;
+    padding-left: 18px;
+    margin-right: 180px;
+    font-family: 'Belwe Std Condensed';
+}
+.angeil_body{
+    color: white;
+    font-size: 40px;
+    margin-top: -30px;
+    margin-left: 10px;
+    line-height: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.angeil{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+    background-image: url("angeil.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    width: 450px;
+}
+.angeil_header{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 40px;
+    padding-left: 18px;
+    margin-right: 180px;
+    font-family: 'Belwe Std Condensed';
+}
+.angeil_body{
+    color: white;
+    font-size: 40px;
+    margin-top: -30px;
+    margin-left: 10px;
+    line-height: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mambo{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+    background-image: url("rambomaja.png");
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    width: 450px;
+}
+.mambo_header{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 40px;
+    padding-left: 18px;
+    margin-right: 50px;
+    font-family: 'Belwe Std Condensed';
+}
+.mambo_body{
+    color: white;
+    font-size: 50px;
+    margin-top: -30px;
+    margin-left: 18px;
+    line-height: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mcclisse{
+    background-color: black;
+    border: solid;
+    border-radius: 20px;
+    background-image: url("mclisse.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    width: 450px;
+}
+.mcclisse_header{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    font-size: 40px;
+    padding-left: 18px;
+    margin-right: 50px;
+    font-family: 'Belwe Std Condensed';
+}
+.mcclisse_body{
+    color: white;
+    font-size: 46px;
+    margin-top: -30px;
+    margin-left: 18px;
+    margin-right: 180px;
+    line-height: 55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.socials{
+    margin-top: 5px;
+    display: flex;
+    background-color: red;
+    color: white;
+    border: solid black;
+    border-radius: 30px;
+    padding-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    margin-bottom: 20dp;
+    width: 1800px;
+}
+.website, .fburl, .instaurl, .twitterurl, .ytchannel{
+    padding-right: 110px;
+}
+.fb, .insta, .twitter, .youtube{
+    height: 20px;
+    padding-right: 110px;
+    padding-bottom: 3px;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 1800px;
+}
+.work{
+    font-size: 30px;
+    word-spacing: 10px;
+    padding-right: 150px;
+    padding-left: 30px;
+}
+.find{
+    font-size: 20px;
+    padding-right: 150px;
+}
+.ads{
+    font-size: 30px;
+}
